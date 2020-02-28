@@ -1,6 +1,6 @@
 # NLP practice: 문장 감정 예측
 ## 0. 개요
-[네이버 영화 평점 데이터셋 ](https://github.com/e9t/nsmc/)을 가지고 문장 감정 예측을 할 수 있는 모델을 제작해보겠습니다. 이번 코드는 Google Colab(.ipynb)에서 작성되었습니다.
+bi-LSTM과 워드 임베딩 등을 활용하여 [네이버 영화 평점 데이터셋 ](https://github.com/e9t/nsmc/)을 가지고 문장 감정 예측을 할 수 있는 모델을 제작해보겠습니다. 이번 코드는 Google Colab(.ipynb)에서 작성되었습니다.
 
 ### 0-1. 목차
 0. [개요](#0-개요)
