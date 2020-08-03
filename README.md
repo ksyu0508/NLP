@@ -3,7 +3,7 @@ NLP practice
 
 ## NLP 관련 논문 목록
 |명칭|날짜|논문|
-|---|---|---|
+|:---:|---|---|
 |-|2013/01/16|[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)|
 |GloVe|2014/08|[GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/)|
 |-|2013/10/16|[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)|
@@ -18,9 +18,9 @@ NLP practice
 
 ## 그 외
 |명칭|날짜|논문|학회|
-|---|---|---|---|
-|-|2017/09|[Deep Neural Solver for Math Word Problems](https://www.aclweb.org/anthology/D17-1088/)||
-|MathQA|2019/5/30|[MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms](https://arxiv.org/abs/1905.13319)||
+|:---:|---|---|:---:|
+|-|2017/09|[Deep Neural Solver for Math Word Problems](https://www.aclweb.org/anthology/D17-1088/)|-|
+|MathQA|2019/5/30|[MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms](https://arxiv.org/abs/1905.13319)|-|
 |-|2020/7|[Context-based Automated Scoring of Complex Mathematical Responses](https://www.aclweb.org/anthology/2020.bea-1.19/)|BEA2020|
 |-|2019/11/9|[A Reinforced Generation of Adversarial Examples for Neural Machine Translation](https://arxiv.org/abs/1911.03677)|ACL2020|
 |-|2020/06/30|[Fooling Automatic Short Answer Grading Systems](https://link.springer.com/chapter/10.1007/978-3-030-52237-7_15)|AIED 2020|
